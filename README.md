@@ -22,3 +22,5 @@ Driving question is: "How would we improve marketing strategy by analyzing custo
 * Combining similar data: narrow down marrital status, combine all number of kids, sum of purchase made, sum of the amount spent on all products
 * Detect outliers: 
 
+![](cust_outlier.png)
+
