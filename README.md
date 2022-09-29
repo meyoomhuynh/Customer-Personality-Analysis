@@ -24,3 +24,14 @@ Driving question is: "How would we improve marketing strategy by analyzing custo
 
 ![](cust_outlier.png)
 
+## EDA
+
+![](cust_heatmap.png)
+
+The heatmap shows some strong correlations (either positive or negative) among customers’ demographics and the products and channels they use. 
+* Customers’ income strongly correlates to products bought such as wine and meat. 
+* Income correlates positively with store purchases and negatively with web purchases. 
+* Customers’ age doesn’t show any strong correlation with either products or channels.
+
+
+
