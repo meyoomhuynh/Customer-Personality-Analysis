@@ -33,5 +33,9 @@ The heatmap shows some strong correlations (either positive or negative) among c
 * Income correlates positively with store purchases and negatively with web purchases. 
 * Customers’ age doesn’t show any strong correlation with either products or channels.
 
+## Data Analysis & Findings
+
+1. How does education impact products bought?
+
 
 
