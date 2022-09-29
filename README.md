@@ -5,6 +5,8 @@ Customer analysis is used to help businesses identify the customers’ profiles 
 #### Main Agenda: 
 Learn the customer’s buying behaviors to increase our marketing effectiveness
 Driving question is: "How would we improve marketing strategy by analyzing customers demographic?"
+
+Tool Used: **Python**
 #### Key Data Description: 
 * Customer’s education (Graduation, PHD, etc)
 * Income
@@ -35,7 +37,7 @@ The heatmap shows some strong correlations (either positive or negative) among c
 
 ## Data Analysis & Findings
 
-1. How does education impact products bought?
+#### 1. How does education impact products bought?
 
 ![](cust_EdvsTotal.png)
 ![](cust_EdvsProduct.png)
@@ -47,5 +49,5 @@ Education vs Individual Products:
 * The higher the education, the lower the amount spent on Sweets, Fish
 * Customers with Graduate education tend to buy more Meat, Gold, and Fruits than the other levels. 
 
-2. How does the number of children affect the customer's buying channel?
+#### 2. How does the number of children affect the customer's buying channel?
 
