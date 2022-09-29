@@ -38,4 +38,12 @@ The heatmap shows some strong correlations (either positive or negative) among c
 1. How does education impact products bought?
 
 ![](cust_EdvsTotal.png)
+![](cust_EdvsProduct.png)
+
+People with basic education tend to spend less in every product category. 
+Education vs Individual Products:
+*The higher the education, the higher the amount spent on Wines and Meat
+*The higher the education, the lower the amount spent on Sweets, Fish
+*Customers with Graduate education tend to buy more Meat, Gold, and Fruits than the other levels. 
+
 
