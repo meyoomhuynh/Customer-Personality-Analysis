@@ -37,5 +37,5 @@ The heatmap shows some strong correlations (either positive or negative) among c
 
 1. How does education impact products bought?
 
-
+![](cust_EdvsTotal.png)
 
