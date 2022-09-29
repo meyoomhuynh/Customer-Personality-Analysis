@@ -41,9 +41,11 @@ The heatmap shows some strong correlations (either positive or negative) among c
 ![](cust_EdvsProduct.png)
 
 People with basic education tend to spend less in every product category. 
-Education vs Individual Products:
-*The higher the education, the higher the amount spent on Wines and Meat
-*The higher the education, the lower the amount spent on Sweets, Fish
-*Customers with Graduate education tend to buy more Meat, Gold, and Fruits than the other levels. 
 
+Education vs Individual Products:
+* The higher the education, the higher the amount spent on Wines and Meat
+* The higher the education, the lower the amount spent on Sweets, Fish
+* Customers with Graduate education tend to buy more Meat, Gold, and Fruits than the other levels. 
+
+2. How does the number of children affect the customer's buying channel?
 
