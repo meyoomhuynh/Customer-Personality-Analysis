@@ -51,3 +51,7 @@ Education vs Individual Products:
 
 #### 2. How does the number of children affect the customer's buying channel?
 
+![](cust_Childrenvschannel.png)
+
+* The greater the number of kids at home, the more purchases are made through deals, catalog and web purchases.
+* Customers with more kids at home tend to visit the store less
